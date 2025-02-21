@@ -14,7 +14,7 @@
 
 ## 🚀 Proyectos Destacados  
 ### 🎲 **Mi Argentina**  https://www.youtube.com/watch?v=o_IUcCoxmwM
-Un Escape Room temático que mezcla desafío y narrativa envolvente. 
+Un Escape Room temático que mezcla desafío y narrativa envolvente. Con una banda sonora propia.
 
 ### 🏃 **Parkour System**  https://github.com/genesis03230/Parkour-System
 Desarrollo de un avanzado Character Controller para un sistema de parkour con animaciones fluidas y mecánicas complejas.
