@@ -14,7 +14,7 @@
 
 ## 🚀 Proyectos Destacados  
 ### 🎲 **Mi Argentina**  
-Un Escape Room temático que mezcla desafío y narrativa envolvente. ¡Explora mi perfil para ver más!
+Un Escape Room temático que mezcla desafío y narrativa envolvente. https://www.linkedin.com/posts/jonatan-huens-gamedev_gamedevelopment-videojuegos-maeqsicaoriginal-activity-7289645437664333824-mjHy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcvdDYBnXEvFvC7ICl8e6SJsIQDL949f4Q
 
 ### 🏃 **Parkour System**  https://github.com/genesis03230/Parkour-System
 Desarrollo de un avanzado Character Controller para un sistema de parkour con animaciones fluidas y mecánicas complejas.
