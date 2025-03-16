@@ -19,6 +19,9 @@ Un Escape Room temático que mezcla desafío y narrativa envolvente. Con una ban
 ### 🏃 **Parkour System**  https://github.com/genesis03230/Parkour-System
 Desarrollo de un avanzado Character Controller para un sistema de parkour con animaciones fluidas y mecánicas complejas.
 
+### 🛡️ **Rise of the Humble Knight**  https://github.com/genesis03230/RiseOfTheHumbleKnight
+Un RPG 2D en Pixel Art desarrollado en menos de una semana. Mezcla exploración, combate por turnos y narrativa interactiva en una épica aventura medieval.  
+
 ---
 
 ## 🎯 ¿Qué me motiva?  
