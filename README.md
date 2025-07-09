@@ -31,7 +31,7 @@ Soy un eterno aprendiz, obsesionado con crear mundos interactivos que combinen a
 
 ## 📫 ¡Conectemos!  
 - [💼 LinkedIn](https://www.linkedin.com/in/jonatan-huens-gamedev)  
-- ✉️ jonatan.huens@gmail.com
+- ✉️ contacto.littlelionstudios@gmail.com
 
 ---
 ### 🌟 "La creatividad no tiene límites cuando tienes el código y la pasión para darle vida."  
