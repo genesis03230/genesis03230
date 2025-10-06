@@ -1,44 +1,105 @@
-# 👾 ¡Bienvenido a mi Universo Creativo de Videojuegos! 🚀  
+# Jonatan Huens - Unity Developer & Game Programmer  
+Designing and developing interactive experiences through code, design, and technology.  
 
-## 👋 ¿Quién soy?  
-¡Hola! Soy **Jonatan Huens**, un apasionado **Desarrollador de Videojuegos** con experiencia en **Unity, C# y diseño 3D**. Mi misión es convertir ideas increíbles en experiencias de juego memorables.
-
----
-
-## 🎮 ¿Qué encontrarás aquí?  
-- **Sistemas avanzados de Gameplay:** Desde **Parkour Controllers** hasta sistemas complejos de audio y cámaras.  
-- **Modelos 3D creativos:** Diseñados con IA y software de modelado como **Blender**.  
-- **Soluciones elegantes para mecánicas de juego** y optimización de performance.
+<img width="2048" height="343" alt="Banner Little Lion Studios" src="https://github.com/user-attachments/assets/9b650074-94b0-4daa-b076-b53036bacbc0" />
 
 ---
 
-## 🚀 Proyectos Destacados  
-### 🎲 **Mi Argentina**  https://www.youtube.com/watch?v=wHXztT3A-Bc
-Un Escape Room temático que mezcla desafío y narrativa envolvente. Con una banda sonora propia.
+## About Me
+I’m a **Unity Game Developer** with a strong foundation in **C# programming, gameplay systems, and 3D/2D design**.  
+I specialize in building modular, scalable mechanics and immersive environments focused on player experience and performance.  
 
-### 🏃 **Parkour System**  https://github.com/genesis03230/Parkour-System
-Desarrollo de un avanzado Character Controller para un sistema de parkour con animaciones fluidas y mecánicas complejas.
+With a multidisciplinary background combining **programming, game design, and audio composition**, I approach development with both creative vision and engineering precision.  
 
-### 🛡️ **Rise of the Humble Knight**  https://github.com/genesis03230/RiseOfTheHumbleKnight
-Un RPG 2D en Pixel Art desarrollado en menos de una semana. Mezcla exploración, combate por turnos y narrativa interactiva en una épica aventura medieval.  
+Currently, I’m expanding my expertise in **AI-assisted workflows**, **advanced player controllers**, and **cross-platform deployment**.
 
 ---
 
-## 🎯 ¿Qué me motiva?  
-Soy un eterno aprendiz, obsesionado con crear mundos interactivos que combinen arte, tecnología y música (¡también compongo para videojuegos!). Siempre abierto a nuevas colaboraciones y desafíos.
+## Featured Projects  
+
+### 🏃‍♂️ [Advanced Parkour System](https://github.com/genesis03230/Parkour-System)
+An advanced **Character Controller** built from scratch in Unity and C#, featuring raycasting-based movement, climbing, vaults, and cinematic camera systems.  
+Developed during the **Masterdevs Bootcamp**, focused on precise physics interaction, fluid animation transitions, and dynamic gameplay design.  
 
 ---
 
-## 📫 ¡Conectemos!  
-- [💼 LinkedIn](https://www.linkedin.com/in/jonatan-huens-gamedev)  
-- ✉️ contacto.littlelionstudios@gmail.com
+### 🧩 [Mi Argentina – Escape Room](https://github.com/genesis03230/MiArgentinaEscapeRoom)
+A **first-person escape room** inspired by Argentine history and culture, built with Unity and a Low Poly aesthetic.  
+The project combines **puzzle design, exploration, and narrative** with an **original soundtrack** composed for the game.  
+🎧 [Listen to the main theme on SoundCloud](https://soundcloud.com/jonatan-huens/main-menu-theme-mi-argentina-escape-room-ost)  
 
 ---
-### 🌟 "La creatividad no tiene límites cuando tienes el código y la pasión para darle vida."  
 
+### ⚔️ [Rise of the Humble Knight](https://github.com/genesis03230/RiseOfTheHumbleKnight)
+A complete **2D Pixel Art RPG** developed solo in under a week as part of a technical challenge for **Team Brunomir**.  
+Includes **interactive dialogues**, **turn-based combat**, and **AI-assisted art generation**.  
+Shortlisted among the **top two finalists** from hundreds of candidates.  
 
-<h2 align="left">Lenguajes y Herramientas:</h2>
+---
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## Little Lion Studios
+Independent creative label focused on developing **narrative-driven and emotional game experiences** using Unity.  
+🎥 [YouTube Channel](https://www.youtube.com/@LittleLionStudios)  
+💼 [LinkedIn](https://www.linkedin.com/in/jonatan-huens-gamedev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=genesis03230&show_icons=true&locale=en&layout=compact" alt="genesis03230" /></p>
+---
+
+## Technical Skills  
+
+**Programming Languages**  
+C# (Advanced), .NET Framework, Visual Studio  
+
+**Game Engines**  
+Unity (2D / 3D), URP, Cinemachine, Shader Graph  
+
+**Gameplay & Systems**  
+Character Controllers, AI Systems, Dialogue Systems, Game State Management, Input System, Physics & Collisions, UI / UX Systems, Optimization  
+
+**Tools & Workflow**  
+Git / GitHub, Blender (3D Modeling & UV Mapping), Photoshop (2D Art & UI Design), Audacity, Git Console, JSON Data Handling, AES Encryption  
+
+**Game Design & Production**  
+Game Design Documents (GDD & OPGDD), Prototyping, Level Design, Balancing, Publishing for Steam, Android, iOS, and Itch.io  
+
+**Audio**  
+Original Soundtrack Composition, Adaptive Audio Implementation, 8-bit Music Production  
+
+---
+
+## Education & Certifications  
+
+### 🎓 Masterdevs  
+- **Bootcamp AI Game Developer (Unity 6.2 + GPT-5 Integration)**  
+  - AI-assisted mechanic design, ChatGPT workflow integration, gameplay systems, multiplayer architecture, publishing pipelines.  
+- **Bootcamp Character Controller Avanzado**  
+  - Advanced movement, parkour, climbing, raycasting, and camera systems in 3D environments.  
+- **Pro Game Developer Program**  
+  - Unity 6 (2D/3D), C#, Input System, GDD/OPGDD, optimization, data persistence, publication, and multiplayer.  
+- **Blender 4.3 Expert 3D Modeling for Games**  
+  - Full low-poly to high-detail modeling workflow, UV mapping, texturing, and export for Unity.  
+- **Game Design — Theory & Practice**  
+  - Game structure, player experience, ludic design, narrative development, and GDD documentation.  
+
+### 🎓 Coderhouse  
+- **Unity Game Development** — Gameplay systems, prefabs, physics, lighting, UI integration, audio, and post-processing.  
+
+### 🎓 Complementary Masterclasses  
+- Unity Input System (Advanced)  
+- Unity Multiplayer Developer (UGS)  
+- Data Persistence & Encryption  
+- Lighting and Rendering (URP / HDRP)  
+- Version Control with Git & GitHub  
+- Photoshop for Game Art & UI  
+- VR Development with Meta Quest  
+
+---
+
+## Contact  
+📧 contacto.littlelionstudios@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/jonatan-huens-gamedev)  
+🎥 [YouTube](https://www.youtube.com/@LittleLionStudios)  
+
+---
+
+*"Building worlds where code meets creativity."*  
+- **Jonatan Huens**
