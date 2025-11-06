@@ -37,6 +37,13 @@ Shortlisted among the **top two finalists** from hundreds of candidates.
 
 ---
 
+### 🐷 [Kings and Pigs](https://github.com/genesis03230/KingsAndPigs)
+
+A 2D Pixel Art Platformer developed in Unity 6, focused on responsive controls, dynamic camera systems, and progressive level design.
+The project is in active development and will include AI-driven enemies, multiple levels, and original music, targeting future releases on Steam, iOS, and Android.
+
+---
+
 ## Little Lion Studios
 Independent creative label focused on developing **narrative-driven and emotional game experiences** using Unity.  
 🎥 [YouTube Channel](https://www.youtube.com/@LittleLionStudios)  
