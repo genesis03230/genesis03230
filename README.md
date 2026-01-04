@@ -1,4 +1,4 @@
-# Jonatan Huens - Unity Developer & Game Programmer  
+# Jonatan Huens - Game Developer & Gameplay Programmer  
 Designing and developing interactive experiences through code, design, and technology.  
 
 <img width="2048" height="343" alt="Banner Little Lion Studios" src="https://github.com/user-attachments/assets/9b650074-94b0-4daa-b076-b53036bacbc0" />
@@ -6,12 +6,13 @@ Designing and developing interactive experiences through code, design, and techn
 ---
 
 ## About Me
-I’m a **Unity Game Developer** with a strong foundation in **C# programming, gameplay systems, and 3D/2D design**.  
-I specialize in building modular, scalable mechanics and immersive environments focused on player experience and performance.  
+I’m a **Game Developer and Gameplay Programmer** with a strong foundation in **Unity, C#, and gameplay systems**, and hands-on experience with **Unreal Engine**.
 
-With a multidisciplinary background combining **programming, game design, and audio composition**, I approach development with both creative vision and engineering precision.  
+I specialize in building **modular, scalable mechanics**, advanced player controllers, and immersive environments with a strong focus on **performance, maintainability, and player experience**.
 
-Currently, I’m expanding my expertise in **AI-assisted workflows**, **advanced player controllers**, and **cross-platform deployment**.
+With a multidisciplinary background that combines **programming, game design, audio composition, and quality assurance**, I approach development with both **creative vision and engineering discipline**.
+
+Currently, I’m expanding my expertise in **Unreal Engine workflows**, **AI-assisted development**, and **cross-platform production pipelines**, while continuously refining my QA-driven approach to software quality.
 
 ---
 
@@ -54,7 +55,7 @@ El objetivo fue diseñar un flujo de pruebas automatizadas completo, integrando 
 ---
 
 ## Little Lion Studios
-Independent creative label focused on developing **narrative-driven and emotional game experiences** using Unity.  
+Independent creative label focused on developing **narrative-driven and emotionally engaging game experiences**.  
 🎥 [YouTube Channel](https://www.youtube.com/@LittleLionStudios)  
 💼 [LinkedIn](https://www.linkedin.com/in/jonatan-huens-gamedev)
 
@@ -62,51 +63,61 @@ Independent creative label focused on developing **narrative-driven and emotiona
 
 ## Technical Skills  
 
-**Programming Languages**  
-C# (Advanced), .NET Framework, Visual Studio  
+### Programming  
+- C# (Advanced), Object-Oriented Programming (OOP), .NET  
+- Java (QA Automation) 
 
-**Game Engines**  
-Unity (2D / 3D), URP, Cinemachine, Shader Graph  
+### Game Engines 
+- **Unity** (2D / 3D) – URP, Cinemachine, Shader Graph  
+- **Unreal Engine** – Gameplay fundamentals, level building, Blueprint workflows  
 
-**Gameplay & Systems**  
-Character Controllers, AI Systems, Dialogue Systems, Game State Management, Input System, Physics & Collisions, UI / UX Systems, Optimization  
+### Gameplay & Systems  
+- Character Controllers & Movement Systems  
+- Gameplay Programming & Systems Design  
+- AI Systems, Dialogue Systems, Input System  
+- Physics, Collisions, UI / UX Systems  
+- Performance Optimization
 
-**Tools & Workflow**  
-Git / GitHub, Blender (3D Modeling & UV Mapping), Photoshop (2D Art & UI Design), Audacity, Git Console, JSON Data Handling, AES Encryption  
+### QA & Software Quality
+- Manual & Automated Testing  
+- Test Case Design & Bug Reporting  
+- Agile / Scrum Methodologies  
+- Quality-Oriented Development
 
-**Game Design & Production**  
-Game Design Documents (GDD & OPGDD), Prototyping, Level Design, Balancing, Publishing for Steam, Android, iOS, and Itch.io  
+### Tools & Workflow  
+- Git / GitHub, Version Control  
+- Blender (3D Modeling, UV Mapping)  
+- Photoshop (2D Art & UI)  
+- Audacity  
+- JSON Data Handling
 
-**Audio**  
-Original Soundtrack Composition, Adaptive Audio Implementation, 8-bit Music Production  
+### Game Design & Production  
+- Game Design Documents (GDD & OPGDD), Prototyping, Level Design, Balancing, Publishing for Steam, Android, iOS, and Itch.io  
+
+### Audio
+- Original Soundtrack Composition  
+- Adaptive & Interactive Audio  
+- 8-bit / Retro Music Production 
 
 ---
 
 ## Education & Certifications  
 
-### 🎓 Masterdevs  
-- **Bootcamp AI Game Developer (Unity 6.2 + GPT-5 Integration)**  
-  - AI-assisted mechanic design, ChatGPT workflow integration, gameplay systems, multiplayer architecture, publishing pipelines.  
-- **Bootcamp Character Controller Avanzado**  
-  - Advanced movement, parkour, climbing, raycasting, and camera systems in 3D environments.  
-- **Pro Game Developer Program**  
-  - Unity 6 (2D/3D), C#, Input System, GDD/OPGDD, optimization, data persistence, publication, and multiplayer.  
-- **Blender 4.3 Expert 3D Modeling for Games**  
-  - Full low-poly to high-detail modeling workflow, UV mapping, texturing, and export for Unity.  
-- **Game Design — Theory & Practice**  
-  - Game structure, player experience, ludic design, narrative development, and GDD documentation.  
+### 🎓 Master Devs
+- **Pro Game Developer Program** – Unity 6 (2D/3D), C#, gameplay systems, optimization, publishing  
+- **Bootcamp – Advanced Character Controller**  
+- **Bootcamp – AI Game Developer (Unity 6 + GPT-based workflows)**  
 
-### 🎓 Coderhouse  
-- **Unity Game Development** — Gameplay systems, prefabs, physics, lighting, UI integration, audio, and post-processing.  
+### 🎓 University Diploma – Quality Assurance (UNC)
+- QA Testing  
+- SQL Databases  
+- Test Automation  
 
-### 🎓 Complementary Masterclasses  
-- Unity Input System (Advanced)  
-- Unity Multiplayer Developer (UGS)  
-- Data Persistence & Encryption  
-- Lighting and Rendering (URP / HDRP)  
-- Version Control with Git & GitHub  
-- Photoshop for Game Art & UI  
-- VR Development with Meta Quest  
+### 🎓 Udemy
+- **Game Development with Unreal Engine – From Zero to Professional**
+
+### 🎓 Coderhouse
+- **Unity Game Development**
 
 ---
 
