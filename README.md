@@ -45,15 +45,6 @@ The project is in active development and will include AI-driven enemies, multipl
 
 ---
 
-## 🧪 QA Automation – Diplomatura Final Project  
-Como parte de mi formación en **QA Automation**, desarrollé un proyecto final aplicando **Java, Selenium, Cucumber, TestNG y POM**.  
-El objetivo fue diseñar un flujo de pruebas automatizadas completo, integrando buenas prácticas y documentación.
-
-📁 **Repositorio del proyecto:**  
-### 👉 [Diplomatura QA Final Project](https://github.com/genesis03230/DiplomaturaQAFinalProject)
-
----
-
 ## Little Lion Studios
 Independent creative label focused on developing **narrative-driven and emotionally engaging game experiences**.  
 🎥 [YouTube Channel](https://www.youtube.com/@LittleLionStudios)  
