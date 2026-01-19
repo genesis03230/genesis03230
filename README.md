@@ -10,7 +10,7 @@ I’m a **Game Developer and Gameplay Programmer** with a strong foundation in *
 
 I specialize in building **modular, scalable mechanics**, advanced player controllers, and immersive environments with a strong focus on **performance, maintainability, and player experience**.
 
-With a multidisciplinary background that combines **programming, game design, audio composition, and quality assurance**, I approach development with both **creative vision and engineering discipline**.
+With a multidisciplinary background combining programming, game design, audio composition, and applied **quality assurance** practices, I approach development with both creative vision and engineering discipline.
 
 Currently, I’m expanding my expertise in **Unreal Engine workflows**, **AI-assisted development**, and **cross-platform production pipelines**, while continuously refining my QA-driven approach to software quality.
 
@@ -49,6 +49,17 @@ The project is in active development and will include AI-driven enemies, multipl
 Independent creative label focused on developing **narrative-driven and emotionally engaging game experiences**.  
 🎥 [YouTube Channel](https://www.youtube.com/@LittleLionStudios)  
 💼 [LinkedIn](https://www.linkedin.com/in/jonatan-huens-gamedev)
+
+---
+
+## 🧪 QA & Testing Practice (Applied to Game Development)
+
+Alongside game development, I actively apply **QA and testing practices to my own projects** to ensure stability, performance, and production readiness.
+
+This includes **manual testing, test case design, bug reporting**, and validation workflows applied directly to gameplay systems and user flows.
+
+🔗 QA Portfolio (Manual & Automation Practices):  
+https://github.com/genesis03230/QaPortfolio
 
 ---
 
