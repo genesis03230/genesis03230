@@ -16,7 +16,7 @@ Currently, I’m expanding my expertise in **Unreal Engine workflows**, **AI-ass
 
 ---
 
-## 🧪 QA & Testing Practice
+## QA & Testing Practice
 
 Alongside game development, I actively apply **QA and testing practices to my own projects** to ensure stability, performance, and production readiness.
 
@@ -29,27 +29,27 @@ https://github.com/genesis03230/QaPortfolio
 
 ## Featured Projects Game Development
 
-### 🏃‍♂️ [Advanced Parkour System](https://github.com/genesis03230/Parkour-System)
+### [Advanced Parkour System](https://github.com/genesis03230/Parkour-System)
 An advanced **Character Controller** built from scratch in Unity and C#, featuring raycasting-based movement, climbing, vaults, and cinematic camera systems.  
 Developed during the **Masterdevs Bootcamp**, focused on precise physics interaction, fluid animation transitions, and dynamic gameplay design.  
 
 ---
 
-### 🧩 [Mi Argentina – Escape Room](https://github.com/genesis03230/MiArgentinaEscapeRoom)
+### [Mi Argentina – Escape Room](https://github.com/genesis03230/MiArgentinaEscapeRoom)
 A **first-person escape room** inspired by Argentine history and culture, built with Unity and a Low Poly aesthetic.  
 The project combines **puzzle design, exploration, and narrative** with an **original soundtrack** composed for the game.  
 🎧 [Listen to the main theme on SoundCloud](https://soundcloud.com/jonatan-huens/main-menu-theme-mi-argentina-escape-room-ost)  
 
 ---
 
-### ⚔️ [Rise of the Humble Knight](https://github.com/genesis03230/RiseOfTheHumbleKnight)
+### [Rise of the Humble Knight](https://github.com/genesis03230/RiseOfTheHumbleKnight)
 A complete **2D Pixel Art RPG** developed solo in under a week as part of a technical challenge for **Team Brunomir**.  
 Includes **interactive dialogues**, **turn-based combat**, and **AI-assisted art generation**.  
 Shortlisted among the **top two finalists** from hundreds of candidates.  
 
 ---
 
-### 🐷 [Kings and Pigs](https://github.com/genesis03230/KingsAndPigs)
+### [Kings and Pigs](https://github.com/genesis03230/KingsAndPigs)
 
 A 2D Pixel Art Platformer developed in Unity 6, focused on responsive controls, dynamic camera systems, and progressive level design.
 The project is in active development and will include AI-driven enemies, multiple levels, and original music, targeting future releases on Steam, iOS, and Android.
