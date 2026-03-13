@@ -1,4 +1,4 @@
-# Jonatan Huens - Game Developer & Gameplay Programmer  
+# Jonatan Huens - Software Developer & QA Automation Engineer
 Designing and developing interactive experiences through code, design, and technology.  
 
 <img width="2048" height="343" alt="Banner Little Lion Studios" src="https://github.com/user-attachments/assets/9b650074-94b0-4daa-b076-b53036bacbc0" />
@@ -16,7 +16,18 @@ Currently, I’m expanding my expertise in **Unreal Engine workflows**, **AI-ass
 
 ---
 
-## Featured Projects  
+## 🧪 QA & Testing Practice
+
+Alongside game development, I actively apply **QA and testing practices to my own projects** to ensure stability, performance, and production readiness.
+
+This includes **manual testing, test case design, bug reporting**, and validation workflows applied directly to gameplay systems and user flows.
+
+🔗 QA Portfolio (Manual & Automation Practices):  
+https://github.com/genesis03230/QaPortfolio
+
+---
+
+## Featured Projects Game Development
 
 ### 🏃‍♂️ [Advanced Parkour System](https://github.com/genesis03230/Parkour-System)
 An advanced **Character Controller** built from scratch in Unity and C#, featuring raycasting-based movement, climbing, vaults, and cinematic camera systems.  
@@ -49,17 +60,6 @@ The project is in active development and will include AI-driven enemies, multipl
 Independent creative label focused on developing **narrative-driven and emotionally engaging game experiences**.  
 🎥 [YouTube Channel](https://www.youtube.com/@LittleLionStudios)  
 💼 [LinkedIn](https://www.linkedin.com/in/jonatan-huens-gamedev)
-
----
-
-## 🧪 QA & Testing Practice (Applied to Game Development)
-
-Alongside game development, I actively apply **QA and testing practices to my own projects** to ensure stability, performance, and production readiness.
-
-This includes **manual testing, test case design, bug reporting**, and validation workflows applied directly to gameplay systems and user flows.
-
-🔗 QA Portfolio (Manual & Automation Practices):  
-https://github.com/genesis03230/QaPortfolio
 
 ---
 
