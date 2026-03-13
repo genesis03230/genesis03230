@@ -6,13 +6,13 @@ Designing and developing interactive experiences through code, design, and techn
 ---
 
 ## About Me
-I’m a **Game Developer and Gameplay Programmer** with a strong foundation in **Unity, C#, and gameplay systems**, and hands-on experience with **Unreal Engine**.
+I’m a Software Developer with a background in QA automation, systems development, and interactive simulations.
 
-I specialize in building **modular, scalable mechanics**, advanced player controllers, and immersive environments with a strong focus on **performance, maintainability, and player experience**.
+My work focuses on building modular, maintainable systems with a strong emphasis on software quality, automation practices, and structured debugging workflows.
 
-With a multidisciplinary background combining programming, game design, audio composition, and applied **quality assurance** practices, I approach development with both creative vision and engineering discipline.
+I have hands-on experience designing test automation frameworks and applying QA practices to real development projects, alongside developing complex gameplay systems using Unity, C#, and Unreal Engine.
 
-Currently, I’m expanding my expertise in **Unreal Engine workflows**, **AI-assisted development**, and **cross-platform production pipelines**, while continuously refining my QA-driven approach to software quality.
+This multidisciplinary background allows me to approach software development with both engineering discipline and a strong quality-driven mindset.
 
 ---
 
