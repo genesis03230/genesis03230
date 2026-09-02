@@ -1,4 +1,4 @@
-# Jonatan Huens - Software Developer & QA Automation Engineer
+# Jonatan Huens - Unity Developer & Gameplay Programmer
 Designing and developing interactive experiences through code, design, and technology.  
 
 <img width="2048" height="343" alt="Banner Little Lion Studios" src="https://github.com/user-attachments/assets/9b650074-94b0-4daa-b076-b53036bacbc0" />
@@ -6,24 +6,11 @@ Designing and developing interactive experiences through code, design, and techn
 ---
 
 ## About Me
-I’m a Software Developer with a background in QA automation, systems development, and interactive simulations.
-
-My work focuses on building modular, maintainable systems with a strong emphasis on software quality, automation practices, and structured debugging workflows.
-
-I have hands-on experience designing test automation frameworks and applying QA practices to real development projects, alongside developing complex gameplay systems using Unity, C#, and Unreal Engine.
-
-This multidisciplinary background allows me to approach software development with both engineering discipline and a strong quality-driven mindset.
-
----
-
-## QA & Testing Practice
-
-Alongside game development, I actively apply **QA and testing practices to my own projects** to ensure stability, performance, and production readiness.
-
-This includes **manual testing, test case design, bug reporting**, and validation workflows applied directly to gameplay systems and user flows.
-
-🔗 QA Portfolio (Manual & Automation Practices):  
-https://github.com/genesis03230/QaPortfolio
+I’m a Unity Developer focused on C# gameplay programming, interactive systems, and rapid prototyping.
+I have hands-on experience developing 2D and 3D games, VR experiences, character controllers, combat systems, AI behaviors, dialogue systems, UI, interaction mechanics, and game-flow logic.
+My background in software testing and QA automation complements my development work, helping me approach debugging, validation, regression testing, and problem solving with a structured mindset.
+I also work with Unreal Engine and Blueprint, and I enjoy turning ideas and requirements into playable, functional experiences.
+My goal is to contribute to professional game development teams where I can continue growing as a developer while building real products and interactive experiences.
 
 ---
 
@@ -43,9 +30,9 @@ The project combines **puzzle design, exploration, and narrative** with an **ori
 ---
 
 ### [Rise of the Humble Knight](https://github.com/genesis03230/RiseOfTheHumbleKnight)
-A complete **2D Pixel Art RPG** developed solo in under a week as part of a technical challenge for **Team Brunomir**.  
-Includes **interactive dialogues**, **turn-based combat**, and **AI-assisted art generation**.  
-Shortlisted among the **top two finalists** from hundreds of candidates.  
+A complete **2D Pixel Art RPG** developed solo in under a week as part of a technical challenge for **Team Brunomir**.
+Includes **interactive dialogues**, **turn-based combat**, gameplay systems, UI, and **AI-assisted art generation**.
+The project demonstrates rapid prototyping, gameplay programming, and the ability to scope and deliver a playable experience under a constrained development timeframe.
 
 ---
 
@@ -57,49 +44,78 @@ The project is in active development and will include AI-driven enemies, multipl
 ---
 
 ## Little Lion Studios
-Independent creative label focused on developing **narrative-driven and emotionally engaging game experiences**.  
+Independent game development label and personal portfolio focused on building narrative-driven and interactive game experiences.
+The studio serves as a space to develop, prototype, document, and showcase my game-development projects. 
 🎥 [YouTube Channel](https://www.youtube.com/@LittleLionStudios)  
-💼 [LinkedIn](https://www.linkedin.com/in/jonatan-huens-gamedev)
+
+---
+
+## QA & Software Quality
+
+My QA background complements my game development work and helps me approach development with structured testing, debugging, and validation practices.
+I apply manual testing, test case design, bug reporting, regression testing, and automated testing techniques to software and game-development projects.
+
+🔗 QA Portfolio (Manual & Automation Practices):  
+https://github.com/genesis03230/QaPortfolio
 
 ---
 
 ## Technical Skills  
 
-### Programming  
-- C# (Advanced), Object-Oriented Programming (OOP), .NET  
-- Java (QA Automation) 
+### Game Development
+- Unity 2D / 3D
+- C#
+- Gameplay Programming
+- Character Controllers
+- Combat Systems
+- AI Behaviors
+- Dialogue Systems
+- Input System
+- Physics & Collisions
+- UI / UX
+- Interaction Systems
+- Game Flow
+- Rapid Prototyping
+- Cinemachine
+- URP
+- Shader Graph
 
-### Game Engines 
-- **Unity** (2D / 3D) – URP, Cinemachine, Shader Graph  
-- **Unreal Engine** – Gameplay fundamentals, level building, Blueprint workflows  
+### Game Technology
+- Unreal Engine
+- Blueprints
+- VR Development
+- Multiplayer Fundamentals
+- Performance Optimization Fundamentals
 
-### Gameplay & Systems  
-- Character Controllers & Movement Systems  
-- Gameplay Programming & Systems Design  
-- AI Systems, Dialogue Systems, Input System  
-- Physics, Collisions, UI / UX Systems  
-- Performance Optimization
+### Programming
+- C#
+- Object-Oriented Programming
+- .NET
+- Java
+- Basic C++
 
-### QA & Software Quality
-- Manual & Automated Testing  
-- Test Case Design & Bug Reporting  
-- Agile / Scrum Methodologies  
-- Quality-Oriented Development
+### QA & Testing
+- Manual Testing
+- Regression Testing
+- Test Case Design
+- Bug Reporting
+- Selenium WebDriver
+- Cucumber BDD
+- JUnit
+- Maven
+- Page Object Model
+- API Testing
+- Postman
 
-### Tools & Workflow  
-- Git / GitHub, Version Control  
-- Blender (3D Modeling, UV Mapping)  
-- Photoshop (2D Art & UI)  
-- Audacity  
-- JSON Data Handling
-
-### Game Design & Production  
-- Game Design Documents (GDD & OPGDD), Prototyping, Level Design, Balancing, Publishing for Steam, Android, iOS, and Itch.io  
-
-### Audio
-- Original Soundtrack Composition  
-- Adaptive & Interactive Audio  
-- 8-bit / Retro Music Production 
+### Tools & Workflow
+- Git / GitHub
+- Visual Studio
+- JetBrains Rider
+- IntelliJ IDEA
+- SQL / MySQL
+- Blender
+- Photoshop
+- JSON
 
 ---
 
