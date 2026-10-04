@@ -140,7 +140,7 @@ https://github.com/genesis03230/QaPortfolio
 ---
 
 ## Contact  
-📧 contacto.littlelionstudios@gmail.com  
+📧 jonatan.huens@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/jonatan-huens-gamedev)  
 🎥 [YouTube](https://www.youtube.com/@LittleLionStudios)  
 
